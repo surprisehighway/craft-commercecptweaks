@@ -10,8 +10,8 @@ Add a Shipping Method column to the order table display in the control panel.
 To install Commerce CP Tweaks, follow these steps:
 
 1. Download & unzip the file and place the `commercecptweaks` directory into your `craft/plugins` directory
-2.  -OR- do a `git clone https://github.com/surprisehighway/commercecptweaks.git` directly into your `craft/plugins` folder.  You can then update it with `git pull`
-3.  -OR- install with Composer via `composer require surprisehighway/commercecptweaks`
+2.  -OR- do a `git clone https://github.com/surprisehighway/craft-commercecptweaks.git` directly into your `craft/plugins` folder.  You can then update it with `git pull`
+3.  -OR- install with Composer via `composer require surprisehighway/craft-commercecptweaks`
 4. Install plugin in the Craft Control Panel under Settings > Plugins
 
 ## Commerce CP Tweaks Overview
