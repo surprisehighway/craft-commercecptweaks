@@ -1,0 +1,14 @@
+{
+	"name": "surprisehighway/commercecptweaks",
+	"description": "Tweaks to the order table column display.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Surprise Highway",
+			"homepage": "http://surprisehighway.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
